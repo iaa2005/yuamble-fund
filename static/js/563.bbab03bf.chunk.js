@@ -1,0 +1,1 @@
+(self.webpackChunkyuamble_fund=self.webpackChunkyuamble_fund||[]).push([[563],{36563:function(){}}]);
